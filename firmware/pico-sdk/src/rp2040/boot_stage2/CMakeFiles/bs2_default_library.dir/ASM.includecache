@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elivelton/Documentos/tpse2/trabalho_mause_usb/drive_usb_mause/firmware/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S
+
