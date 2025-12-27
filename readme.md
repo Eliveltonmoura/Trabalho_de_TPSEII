@@ -715,7 +715,7 @@ sudo udevadm control --reload-rules
 
 **Disciplina:** TPSE2  
 **Instituição:** UFC
-**Ano:** 2024
+**Ano:** 2025
 
 ---
 
