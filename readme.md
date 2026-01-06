@@ -3,6 +3,9 @@
 **Disciplina:** Tópicos em Sistemas Embarcados 2 (TPSE2)  
 **Projeto:** Driver Linux para Periférico USB   
 **Hardware:** Raspberry Pi Pico W + Joystick Analógico + LED RGB
+# Dupla 
+**Antonio Elivelton Moura da Silva,585803**
+**Monalisa Silva Bezerra, 535614**
 
 ---
 
@@ -725,4 +728,3 @@ Este projeto foi desenvolvido para fins educacionais.
 
 ---
 
-**✅ Projeto Completo e Funcional - Todos os Requisitos Atendidos!**
